@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "83570F37-9771-431A-9E69-60826708CE76"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C73DBEFB-7541-4334-9549-DED5803B0ECE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "firebaseIntro/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C73DBEFB-7541-4334-9549-DED5803B0ECE - 5a0102042b0ed9b0"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "firebaseIntro.ViewController.head.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "firebaseIntro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Dropbox/Datamatiker/4.Semester/iOS/Handins/Week09/firebaseIntro/firebaseIntro/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "C73DBEFB-7541-4334-9549-DED5803B0ECE - ed8119e4a51cddac"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "firebaseIntro.ViewController.head.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "firebaseIntro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Dropbox/Datamatiker/4.Semester/iOS/Handins/Week09/firebaseIntro/firebaseIntro/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "C73DBEFB-7541-4334-9549-DED5803B0ECE - 9662f1b173c64abd"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "firebaseIntro.ViewController.head.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "firebaseIntro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Dropbox/Datamatiker/4.Semester/iOS/Handins/Week09/firebaseIntro/firebaseIntro/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  uuid = "C73DBEFB-7541-4334-9549-DED5803B0ECE - f056e943e489caf7"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "firebaseIntro.ViewController.head.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "firebaseIntro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Dropbox/Datamatiker/4.Semester/iOS/Handins/Week09/firebaseIntro/firebaseIntro/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "C73DBEFB-7541-4334-9549-DED5803B0ECE - cf06cce231dd317"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "firebaseIntro.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; firebaseIntro.ViewController"
+                  moduleName = "firebaseIntro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Dropbox/Datamatiker/4.Semester/iOS/Handins/Week09/firebaseIntro/firebaseIntro/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "182">
+               </Location>
+               <Location
+                  uuid = "C73DBEFB-7541-4334-9549-DED5803B0ECE - 344a20e4283d660c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "firebaseIntro.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;firebaseIntro.ViewController&gt;"
+                  moduleName = "firebaseIntro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Dropbox/Datamatiker/4.Semester/iOS/Handins/Week09/firebaseIntro/firebaseIntro/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "107">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4B36C57B-36DF-4CFE-A1B0-00BD6E8BE785"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "firebaseIntro/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "4B36C57B-36DF-4CFE-A1B0-00BD6E8BE785 - 5a0102042b0ed9b0"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "firebaseIntro.ViewController.head.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "firebaseIntro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Dropbox/Datamatiker/4.Semester/iOS/Handins/Week09/firebaseIntro/firebaseIntro/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "4B36C57B-36DF-4CFE-A1B0-00BD6E8BE785 - ed8119e4a51cddac"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "firebaseIntro.ViewController.head.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "firebaseIntro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Dropbox/Datamatiker/4.Semester/iOS/Handins/Week09/firebaseIntro/firebaseIntro/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "4B36C57B-36DF-4CFE-A1B0-00BD6E8BE785 - 9662f1b173c64abd"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "firebaseIntro.ViewController.head.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "firebaseIntro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Dropbox/Datamatiker/4.Semester/iOS/Handins/Week09/firebaseIntro/firebaseIntro/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  uuid = "4B36C57B-36DF-4CFE-A1B0-00BD6E8BE785 - f056e943e489caf7"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "firebaseIntro.ViewController.head.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "firebaseIntro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Dropbox/Datamatiker/4.Semester/iOS/Handins/Week09/firebaseIntro/firebaseIntro/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "4B36C57B-36DF-4CFE-A1B0-00BD6E8BE785 - cf06cce231dd317"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "firebaseIntro.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; firebaseIntro.ViewController"
+                  moduleName = "firebaseIntro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Dropbox/Datamatiker/4.Semester/iOS/Handins/Week09/firebaseIntro/firebaseIntro/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "182">
+               </Location>
+               <Location
+                  uuid = "4B36C57B-36DF-4CFE-A1B0-00BD6E8BE785 - 344a20e4283d660c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "firebaseIntro.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;firebaseIntro.ViewController&gt;"
+                  moduleName = "firebaseIntro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Dropbox/Datamatiker/4.Semester/iOS/Handins/Week09/firebaseIntro/firebaseIntro/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "107">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E322DBD5-A5A0-4A86-9B44-3A0462259F55"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "firebaseIntro/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "E322DBD5-A5A0-4A86-9B44-3A0462259F55 - 4fd739a24c8c289c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "firebaseIntro.ViewController.body.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "firebaseIntro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Dropbox/Datamatiker/4.Semester/iOS/Handins/Week09/firebaseIntro/firebaseIntro/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "E322DBD5-A5A0-4A86-9B44-3A0462259F55 - c1573482ce9a2c88"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "firebaseIntro.ViewController.body.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "firebaseIntro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Dropbox/Datamatiker/4.Semester/iOS/Handins/Week09/firebaseIntro/firebaseIntro/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "E322DBD5-A5A0-4A86-9B44-3A0462259F55 - 8a48af4f95445999"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "firebaseIntro.ViewController.body.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "firebaseIntro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Dropbox/Datamatiker/4.Semester/iOS/Handins/Week09/firebaseIntro/firebaseIntro/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  uuid = "E322DBD5-A5A0-4A86-9B44-3A0462259F55 - ca499e97fa0594ee"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "firebaseIntro.ViewController.body.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "firebaseIntro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Dropbox/Datamatiker/4.Semester/iOS/Handins/Week09/firebaseIntro/firebaseIntro/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "E322DBD5-A5A0-4A86-9B44-3A0462259F55 - cf06cce231dd317"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "firebaseIntro.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; firebaseIntro.ViewController"
+                  moduleName = "firebaseIntro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Dropbox/Datamatiker/4.Semester/iOS/Handins/Week09/firebaseIntro/firebaseIntro/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  uuid = "E322DBD5-A5A0-4A86-9B44-3A0462259F55 - 344a20e4283d660c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "firebaseIntro.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;firebaseIntro.ViewController&gt;"
+                  moduleName = "firebaseIntro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Dropbox/Datamatiker/4.Semester/iOS/Handins/Week09/firebaseIntro/firebaseIntro/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "202">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

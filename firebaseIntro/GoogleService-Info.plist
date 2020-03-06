@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>823950187013-bmhp7a0rr7u8fh5s5s5fj9ie3733nsuh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.823950187013-bmhp7a0rr7u8fh5s5s5fj9ie3733nsuh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyABj7dHzNVpF-gj6k1Hp0ueC9ON60FGkZc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>823950187013</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>oliver.firebaseIntro</string>
+	<key>PROJECT_ID</key>
+	<string>week09-ec8cb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>week09-ec8cb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:823950187013:ios:fdd0f8cedb043eea615a6c</string>
+	<key>DATABASE_URL</key>
+	<string>https://week09-ec8cb.firebaseio.com</string>
+</dict>
+</plist>
