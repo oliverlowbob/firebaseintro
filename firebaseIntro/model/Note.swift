@@ -12,11 +12,13 @@ class Note {
     var id:String
     var head:String
     var body:String
+    var imageid:String
     
     //constructor
-    init(id:String, head:String, body:String){
+    init(id:String, head:String, body:String, imageid:String){
         self.id = id
         self.head = head
         self.body = body
+        self.imageid = imageid
     }
 }
